@@ -4,26 +4,6 @@
   <attributes/>
   <visualElements>
     <visualElement>
-      <elementName>Full Adder Curcuit.dig</elementName>
-      <elementAttributes/>
-      <pos x="740" y="120"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Full Adder Curcuit.dig</elementName>
-      <elementAttributes/>
-      <pos x="560" y="120"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Full Adder Curcuit.dig</elementName>
-      <elementAttributes/>
-      <pos x="380" y="120"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Full Adder Curcuit.dig</elementName>
-      <elementAttributes/>
-      <pos x="200" y="120"/>
-    </visualElement>
-    <visualElement>
       <elementName>In</elementName>
       <elementAttributes>
         <entry>
@@ -126,6 +106,26 @@
         </entry>
       </elementAttributes>
       <pos x="820" y="260"/>
+    </visualElement>
+    <visualElement>
+      <elementName>1-bit-adder.dig</elementName>
+      <elementAttributes/>
+      <pos x="200" y="120"/>
+    </visualElement>
+    <visualElement>
+      <elementName>1-bit-adder.dig</elementName>
+      <elementAttributes/>
+      <pos x="380" y="120"/>
+    </visualElement>
+    <visualElement>
+      <elementName>1-bit-adder.dig</elementName>
+      <elementAttributes/>
+      <pos x="560" y="120"/>
+    </visualElement>
+    <visualElement>
+      <elementName>1-bit-adder.dig</elementName>
+      <elementAttributes/>
+      <pos x="740" y="120"/>
     </visualElement>
   </visualElements>
   <wires>
